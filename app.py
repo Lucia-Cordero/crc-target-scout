@@ -333,6 +333,10 @@ with st.sidebar:
         "The intended next step is wiring this framework to real cBioPortal/DepMap endpoints. "
         "Architecture and scoring logic are the demonstrable outputs, not the specific rankings."
     )
+    st.markdown(
+        '📖 [Full documentation & rationale](https://github.com/Lucia-Cordero/crc-target-scout#readme)',
+        unsafe_allow_html=False
+    )
 
 # ── Filter data ─────────────────────────────────────────────────────────────────
 dff = df.copy()
