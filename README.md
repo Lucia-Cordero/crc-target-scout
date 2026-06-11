@@ -6,6 +6,9 @@ An AI-assisted target prioritisation framework for Colorectal Cancer (CRC), prot
 
 > This prototype was developed with the assistance of Claude (Anthropic) for code generation. The biological rationale, scoring design decisions, and critical review of limitations are the author's own.
 
+🔗 **Live demo:** [crc-target-scout.streamlit.app](https://crc-target-scout-klu8xseahasgp6wf7dar6l.streamlit.app/)
+
+
 ---
 
 ## The problem this addresses
