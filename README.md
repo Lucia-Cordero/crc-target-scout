@@ -4,6 +4,8 @@
 
 An AI-assisted target prioritisation framework for Colorectal Cancer (CRC), prototyping a multi-axis triage workflow for therapeutic candidates.
 
+> This prototype was developed with the assistance of Claude (Anthropic) for code generation. The biological rationale, scoring design decisions, and critical review of limitations are the author's own.
+
 ---
 
 ## The problem this addresses
@@ -20,7 +22,7 @@ Naïve approaches fail in predictable ways:
 
 ---
 
-## What we built
+## Approach
 
 CRC Target Scout is a minimal working prototype that attempts to address the most tractable of these challenges within a one-day build constraint.
 
